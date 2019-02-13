@@ -1,6 +1,6 @@
 # Basic Portfolio
 ---
-Homework-1-B - Basic Portfolio
+ Basic Portfolio
 ___
 
 ### This is a basic portfolio application that has been developed using HTML and CSS ONLY
